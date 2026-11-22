@@ -1,4 +1,5 @@
 # A galley for Bluey
+_Last edited: November 23, 2026_
 
 This serves as a chronology to properly document the whale used by me, **Ricky Cheung**, in profile pictures since 2023.
 
@@ -10,5 +11,7 @@ As a first of this kind to document my life, I decide it is appropriate still to
 
 ## Chapters
 1. [Origins from plushies](docs/part-1.md)
-
-_More to come soon!_
+2. From chatter to realization
+3. A lapse of reason, tool for display
+4. How to train your Bluey
+5. Legacy of the whale identity

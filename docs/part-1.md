@@ -1,4 +1,5 @@
 # Part 1: Origins from plushies
+_Last edited: November 23, 2026_
 
 As with any good character, a good backstory makes it bloom even more.
 
@@ -22,13 +23,15 @@ I feel like my life has been filled with moments of desparation and hopelessness
 
 Being taught to save up for the family, I never really requested for much back then. The experience of entering souvenir stores is still filled with wonder and hope – the wonder of seeing and touching something I won't have now, and the hope for owning that in the future.
 
-<figure style="text-align: center;">
-<img src="../images/ocean_park_dolphin.jpg" alt="Ocean Park dolphin" width="480">
-<figcaption>The dolphin plushie from Ocean Park. Cropped version stored on Google Photos since 2018-08-22, original lost to time.</figcaption>
-</figure>
+<div align="center">
+  <img src="../images/ocean_park_dolphin.jpg" alt="Ocean Park dolphin" width="480">
+  <p><em>The dolphin plushie from Ocean Park. Cropped version stored on Google Photos since 2018-08-22, original lost to time.</em></p>
+</div>
 
 Looking at it again, I personally do think it is more a whale, and the opened mouth makes it more so. However, the body dimensions are less obvious. Dolphins should be more slender than whales, but it is not reflected that much from this image.
 
 Nonetheless, I have kept this image around on some platforms, notably my mother's TaoBao and IdleFish account. It was simply left alone after I had explored the platform back in 2018, never to be touched again. If not for the preservation through obscurity, perhaps I would not have remembered the reasons behind my origins for whales and dolphins.
 
 As with whether I have purchased the whale, the answer is a firm no. If anyone does own that exact plushie from Ocean Park, though, I would love to be friend with you.
+
+_To be continued!_
