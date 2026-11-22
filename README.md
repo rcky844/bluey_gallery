@@ -1,4 +1,4 @@
-# A galley for Bluey
+# A gallery for Bluey
 _Last edited: November 23, 2026_
 
 This serves as a chronology to properly document the whale used by me, **Ricky Cheung**, in profile pictures since 2023.
