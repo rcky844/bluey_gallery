@@ -22,8 +22,10 @@ I feel like my life has been filled with moments of desparation and hopelessness
 
 Being taught to save up for the family, I never really requested for much back then. The experience of entering souvenir stores is still filled with wonder and hope – the wonder of seeing and touching something I won't have now, and the hope for owning that in the future.
 
-![Ocean Park dolphin](../images/ocean_park_dolphin.jpg)
-_The dolphin plushie from Ocean Park. Cropped version stored on Google Photos since 2018-08-22, original lost to time._
+<figure style="text-align: center;">
+<img src="../images/ocean_park_dolphin.jpg" alt="Ocean Park dolphin" width="480">
+<figcaption>The dolphin plushie from Ocean Park. Cropped version stored on Google Photos since 2018-08-22, original lost to time.</figcaption>
+</figure>
 
 Looking at it again, I personally do think it is more a whale, and the opened mouth makes it more so. However, the body dimensions are less obvious. Dolphins should be more slender than whales, but it is not reflected that much from this image.
 
